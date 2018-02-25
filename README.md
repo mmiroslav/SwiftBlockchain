@@ -9,8 +9,6 @@ The master branch of this project currently compiles with **Xcode 9** or the **S
 To compile project with Xcode do the following:
 
 ```
-$ cd Blockchain
-$ swift package init --type executable
 $ swift package generate-xcodeproj
 ```
 
